@@ -1,3 +1,12 @@
+# Classy Weather
+Classy Weather: A sleek app providing precise weather forecasts for any location. Effortlessly access week-long weather data with a simple input, keeping you prepared for the elements.
+
+## Features
+
+Precise weather forecasts for any specified location
+Comprehensive week-long weather data at your fingertips
+Simple and intuitive user interface for ease of use
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
